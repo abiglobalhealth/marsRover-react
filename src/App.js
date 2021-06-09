@@ -97,17 +97,15 @@ function App() {
         <p>
           Current Orientation:{roverZ}
         </p>
-        <form>
-          <strong>Set Map Size:</strong> <br/>
-          <label>
-            X Size:
-          <input type="number" name="xSize" onChange={e => setMapX(e.target.value)}/>
-          </label>
-          <label>
-            Y Size:
-          <input type="number" name="ySize" onChange={e => setMapY(e.target.value)}/>
-          </label>
-        </form>
+        <strong>Set Map Size:</strong> <br/>
+        <label>
+          X Size:
+        <input type="number" name="xSize" onChange={e => setMapX(e.target.value)}/>
+        </label>
+        <label>
+          Y Size:
+        <input type="number" name="ySize" onChange={e => setMapY(e.target.value)}/>
+        </label>
 
         <div>
           <br/>
