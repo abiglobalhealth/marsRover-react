@@ -19,9 +19,7 @@ Then:
 ```
 
 #### Bonus point 
-After ensuring that the functional requirements have been met, as a bonus point, add a new feature:
-
-Represent graphically the position of the mars rover on a grid.
+After ensuring that the functional requirements have been met, as a bonus point represent graphically the position of the mars rover on a grid.
 
 #### Bonus point 2
 
